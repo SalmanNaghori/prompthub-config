@@ -1,15 +1,50 @@
 {
-  "version": "1.1.0",
-  "minimumSupportedVersion": "1.0.0",
-  "isForceUpdate": false,
-  "releaseDate": "2026-06-15",
-  "title": "New Update Available",
-  "description": "Performance improvements and bug fixes.",
-  "changelog": [
-    "ObjectBox integration",
-    "Improved search",
-    "New AI Hub",
-    "Better collections"
-  ],
-  "downloadUrl": "https://play.google.com/store/apps/details?id=com.prompthub.ai"
+  "updateInfo": {
+    "version": "1.2.0",
+    "minimumSupportedVersion": "1.0.0",
+    "buildNumber": 12,
+    "releaseDate": "2026-06-15",
+    "title": "New Update Available",
+    "description": "Performance improvements, ObjectBox migration, AI Hub enhancements, and search optimization.",
+    "changelog": [
+      "Migrated local storage to ObjectBox",
+      "Added enterprise update management system",
+      "Improved prompt search performance",
+      "Added feature flags support",
+      "Added maintenance mode support",
+      "Enhanced category browsing experience"
+    ],
+    "isForceUpdate": false,
+    "isCriticalUpdate": false,
+    "showUpdateBadge": true,
+    "updatePriority": 1,
+    "downloadUrl": "https://play.google.com/store/apps/details?id=com.prompthub.ai",
+    "androidStoreUrl": "https://play.google.com/store/apps/details?id=com.prompthub.ai",
+    "iosStoreUrl": "https://apps.apple.com/app/id123456789",
+    "minimumAppBuild": 10,
+    "createdAt": "2026-06-15T10:00:00Z"
+  },
+  "featureFlags": {
+    "aiHubEnabled": true,
+    "adsEnabled": true,
+    "collectionsEnabled": true,
+    "promptMarketplaceEnabled": false,
+    "premiumEnabled": true,
+    "cloudSyncEnabled": false,
+    "communityPromptsEnabled": false,
+    "teamCollaborationEnabled": false
+  },
+  "maintenanceMode": false,
+  "adConfiguration": {
+    "bannerAdsEnabled": true,
+    "interstitialAdsEnabled": true,
+    "rewardedAdsEnabled": true,
+    "copyPromptAdInterval": 3
+  },
+  "premiumConfiguration": {
+    "premiumEnabled": true,
+    "monthlyPlanEnabled": true,
+    "yearlyPlanEnabled": true,
+    "lifetimePlanEnabled": false
+  }
 }
