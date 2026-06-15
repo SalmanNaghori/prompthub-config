@@ -1,11 +1,11 @@
 {
   "updateInfo": {
-    "version": "1.2.0",
+    "version": "1.0.0",
     "minimumSupportedVersion": "1.0.0",
     "buildNumber": 12,
     "releaseDate": "2026-06-15",
     "title": "New Update Available",
-    "description": "Performance improvements, ObjectBox migration, AI Hub enhancements, and search optimization.",
+    "description": "Performance improvements, ObjectBox migration, AI Hub enhancements, and search optimization.
     "changelog": [
       "Migrated local storage to ObjectBox",
       "Added enterprise update management system",
