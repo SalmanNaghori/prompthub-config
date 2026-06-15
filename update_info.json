@@ -1,0 +1,15 @@
+{
+  "version": "1.1.0",
+  "minimumSupportedVersion": "1.0.0",
+  "isForceUpdate": false,
+  "releaseDate": "2026-06-15",
+  "title": "New Update Available",
+  "description": "Performance improvements and bug fixes.",
+  "changelog": [
+    "ObjectBox integration",
+    "Improved search",
+    "New AI Hub",
+    "Better collections"
+  ],
+  "downloadUrl": "https://play.google.com/store/apps/details?id=com.prompthub.ai"
+}
