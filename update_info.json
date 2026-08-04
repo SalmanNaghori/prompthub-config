@@ -15,7 +15,7 @@
       "Added maintenance mode support",
       "Enhanced category browsing experience"
     ],
-    "isForceUpdate": false,
+    "isForceUpdate": true,
     "isCriticalUpdate": false,
     "showUpdateBadge": true,
     "updatePriority": 1,
